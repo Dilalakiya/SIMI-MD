@@ -4,7 +4,7 @@
   <a href="https://ibb.co/vvLZykKg"><img src="https://i.ibb.co/VpM2nTPr/seven.jpg" alt="seven" border="0" /></a>
     
     
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SIMI-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DILA+and+;Wishwajith...!+;SIMI-MD." alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SIMI-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DILA+AND+;WISHWAJITH ._._._. !!!+;SIMI-MD." alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Dilalakiya/SIMI-MD/"><img title="Owner" src=lakshitha DILMINA owner" width="173px" height="29"></a>
+<a href="https://ibb.co/PG8zSzf4"><img title="OWNER" src="https://i.ibb.co/fd7GcGPt/IMG-20250130-WA0045.jpg" alt="IMG-20250130-WA0045" border="0" width="200" height="200"/></a>
   <a href="https://github.com/Dilalakiya/SIMI-MD/blob/main/LICENSE"><img title="Owner" src="https://img.shields.io/https://github.com/Dilalakiya/SIMI/?style=flat-square&color=black&link=https%3A%2F%2Fgithub.com%2Fr%2FSIMI-MD%2Fblob%2Fmain%2FLICENS" width="173px" height="29"></a>
 
 
