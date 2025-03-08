@@ -1,1 +1,3 @@
-src
+{
+	"name": "SIMI MD "
+}
