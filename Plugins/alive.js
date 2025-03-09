@@ -73,7 +73,7 @@ menu[commands[i].category] += `.${commands[i].pattern}\n`;
 let madeMenu = `
 👋 𝐇𝐄𝐋𝐋𝐎, ${pushname}!
 
-✨ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 SIMI-MD
+✨ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 SIMI-MD WHATSAPP BOT
 CREAT BY DILA AND WISHWAJITH✨ 
 ╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」
 │◈ яυηтιмє * ${runtime(process.uptime())}
