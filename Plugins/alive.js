@@ -133,7 +133,7 @@ CREAT BY DILA AND WISHWAJITH✨
 
 > *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ DILA*`
 
-return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/bHXBV08/9242c844b83f7bf9.jpg`},caption:madeMenu},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/d02fQwQ5/1300.jpg`},caption:madeMenu},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`𝔼𝕣𝕣𝕣𝕠𝕣`)
