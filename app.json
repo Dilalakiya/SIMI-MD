@@ -5,11 +5,6 @@
   "keywords": ["bot"],
   "success_url": "/",
 
-  "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
-      "required": false
-    },  
 
     "ALIVE_IMG": {
       "description": "Put your alive img here.",
