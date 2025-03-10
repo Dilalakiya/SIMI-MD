@@ -1,0 +1,189 @@
+console.log("Hello, World!");
+function add(a, b) {
+    return a + b;
+}
+
+let sum = add(5, 3);
+console.log(sum); // Outputs: 8
+<!DOCTYPE html>
+<html>
+<body>
+
+<button id="myButton">Click me</button>
+
+<script>
+document.getElementById("myButton").addEventListener("click", function() {
+    alert("Button was clicked!");
+});
+</script>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo">This is a paragraph.</p>
+
+<script>
+document.getElementById("demo").innerHTML = "Paragraph has been changed!";
+</script>
+
+</body>
+</html>
+for (let i = 1; i <= 10; i++) {
+    console.log(i);
+}
+let fruits = ["Apple", "Banana", "Cherry"];
+fruits.push("Orange"); // Add an item to the array
+console.log(fruits);
+
+fruits.pop(); // Remove the last item
+console.log(fruits);
+
+console.log(fruits[0]); // Access an item by index
+fetch('https://api.example.com/data')
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch(error => console.error('Error:', error));
+async function fetchData() {
+    try {
+        let response = await fetch('https://api.example.com/data');
+        let data = await response.json();
+        console.log(data);
+    } catch (error) {
+        console.error('Error:', error);
+    }
+}
+
+fetchData();
+let person = {
+    firstName: "John",
+    lastName: "Doe",
+    age: 30,
+    fullName: function() {
+        return this.firstName + " " + this.lastName;
+    }
+};
+
+console.log(person.fullName());
+class Car {
+    constructor(brand, model) {
+        this.brand = brand;
+        this.model = model;
+    }
+
+    display() {
+        return this.brand + " " + this.model;
+    }
+}
+
+let myCar = new Car("Toyota", "Corolla");
+console.log(myCar.display());
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Web Page</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>This is a section about me.</p>
+        </section>
+        <section>
+            <h2>My Projects</h2>
+            <ul>
+                <li>Project 1</li>
+                <li>Project 2</li>
+                <li>Project 3</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 My Web Page</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Web Page</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>This is a section about me.</p>
+        </section>
+        <section>
+            <h2>My Projects</h2>
+            <ul>
+                <li>Project 1</li>
+                <li>Project 2</li>
+                <li>Project 3</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 My Web Page</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+main {
+    padding: 2rem;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #eee;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
