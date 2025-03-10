@@ -5,12 +5,6 @@
   "keywords": ["bot"],
   "success_url": "/",
 
-  "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
-      "required": true
-    },  
-
     "ALIVE_IMG": {
       "description": "Put your alive img here.",
       "required": true
@@ -29,3 +23,4 @@
      ],
   "stack": "heroku-24"
 }
+ 
