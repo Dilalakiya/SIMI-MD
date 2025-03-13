@@ -53,6 +53,9 @@
 
 
 - ***Star ⭐ My Repo If You Like.***
+                 
+- <a href='https://github.com/Dilalakiya/SIMI-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+
 - ***The [SIMI-MD](https://github.com/Dilalakiya/SIMI-MD/) is Made Under The [DILABOTZ TEAM YT-2.0 license](https://github.com/Dilalakiya/SIMI-MD//blob/main/LICENSE).***
 - ***[DILABOTZ TEAM YT-2.0 license](https://github.com/Dilalakiya/SIMI-MD//blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
