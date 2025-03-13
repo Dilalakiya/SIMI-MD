@@ -1,31 +1,23 @@
+GET Request https://api.quackr.io/receive-sms?phoneNumber=PHONE_NUMBER_GOES_HERE
+
+Headers:
 {
-  "name": "SIMI-MD",
-  "description": "Javascript WhatsApp bot made by DILA",
-  "logo": "https://pomf2.lain.la/f/nylzm29e.png",
-  "keywords": ["bot"],
-  "success_url": "/",
-
-  "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
-      "required": false
-    },  
-
-    "ALIVE_IMG": {
-      "description": "Put your alive img here.",
-      "required": true
-    },
-    
-    "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
-      "required": true
-    }   
-},
-
-     "buildpacks": [
-        {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
-        }
-     ],
-  "stack": "heroku-24"
+  "x-api-key": "dTbzwRsXxegDSlno3bogxbdyEGK2"
+}
+{
+  "success": "true",
+  "data": {
+    "messages": [
+      {
+        "sender": "Telegram",
+        "name": "Your verification code is: 12345",
+        "timestamp": 1741858440359
+      },
+      {
+        "sender": "Tinder",
+        "name": "Your code is: 854177",
+        "timestamp": 1741858440359
+      }
+    ]
+  }
 }
