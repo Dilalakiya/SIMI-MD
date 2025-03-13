@@ -42,7 +42,7 @@
 2. ***Click [FORK](https://github.com/Dilalakiya/SIMI-MD/)***
 4. ***Get Your [SESSION FILE HEARE](https://simi-md-6a07991c2b1c.herokuapp.com/pair) Url***
 5. ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/Dilalakiya/SIMI-MD)***
-6. ***Deploy on [Render]***( <a href="https://dashboard.render.com/" target="blank"><img align="center" src="https://telegra.ph/file/c15e952f017c10e12f431.jpg" width="100" height="20" alt="Deploy bot"/></a>
+6. ***Deploy on [Render]***( <a href="https://dashboard.render.com/" target="blank"><img align="center" src="https://telegra.ph/file/c15e952f017c10e12f431.jpg" width="100" height="20" alt="Deploy bot"/></a>https://github.com/Dilalakiya/SIMI-MD/edit/main/README.md
 
 
 
