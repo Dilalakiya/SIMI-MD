@@ -43,8 +43,8 @@
 4. ***Get Your [SESSION FILE HEARE](https://simi-md-6a07991c2b1c.herokuapp.com/pair) Url***
 5. ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/Dilalakiya/SIMI-MD)***
 6.                               ***Deploy on [Render]****
-7. ( <a href="https://dashboard.render.com/" target="blank"><img align="center" src="https://telegra.ph/file/c15e952f017c10e12f431.jpg" width="100" height="20" alt="Deploy bot"/></a> ***IM MR DILA***
-8. ***Deploy on koyeb*** ***[KOYEB]*** = https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Dilalakiya/SIMI-MD
+7. ( <a href="https://dashboard.render.om/" target="blank"><img align="center" src="https://telegra.ph/file/c15e952f017c10e12f431.jpg" width="100" height="20" alt="Deploy bot"/></a> ***IM MR DILA***
+8. ***Deploy on koyeb*** ***[KOYEB]*** = <a href='https://app.koyeb.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=koyeb' width="96.35" height="28"/></a></p>
 
 - ***Need Unlimited Stars On MY Repo***
 - ***If You Are Facing Any Issue In Bot, Then Create [Issue](https://github.com/Dilalakiya/SIMI-MD/).***
