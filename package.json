@@ -9,7 +9,7 @@
     "restart": "pm2 restart simimd"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "latest",
+    "@whiskeysockets/baileys": "github:AxellNetwork/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "google-tts-api": "^2.0.2",
     "pino": "^7.0.5",
