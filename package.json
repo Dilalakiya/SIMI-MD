@@ -4,9 +4,9 @@
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SIMI MD",
-    "stop": "pm2 stop SIMI MD",
-    "restart": "pm2 restart SIMI MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name simimd",
+    "stop": "pm2 stop simimd",
+    "restart": "pm2 restart simimd"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
