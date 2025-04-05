@@ -40,7 +40,7 @@
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
 1. ***Star⭐ The Repository Must***
 2. ***Click [FORK](https://github.com/Dilalakiya/SIMI-MD/)***
-4. ***Get Your [SESSION FILE HEARE](https://simi-md-6a07991c2b1c.herokuapp.com/pair) Url***
+4. ***Get Your [SESSION FILE HEARE]() Url***
 5. ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/Dilalakiya/SIMI-MD)***
 6.                               ***Deploy on [Render]****
 7. ( <a href="https://dashboard.render.om/" target="blank"><img align="center" src="https://telegra.ph/file/c15e952f017c10e12f431.jpg" width="100" height="20" alt="Deploy bot"/></a> ***IM MR DILA***
